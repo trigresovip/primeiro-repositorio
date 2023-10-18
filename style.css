@@ -1,5 +1,9 @@
 body {
-    background-color: blue;
+    background-color: rgb(255, 217, 0);
+}
+
+img {
+    width: 100%;
 }
 
 h1 {
@@ -12,5 +16,5 @@ p {
 }
 
 p em {
-    color: blue;
+    color: pink;
 }
