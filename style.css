@@ -1,9 +1,14 @@
 body {
-    background-color: rgb(255, 217, 0);
+    
 }
 
 img {
     width: 100%;
+}
+
+.apresentacao {
+    background: #CCCCCC;
+    padding: 30px;
 }
 
 h1 {
@@ -17,4 +22,15 @@ p {
 
  em strong {
     color: grey;
+}
+
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+
+}
+
+h2 {
+    text-align: center;
 }
