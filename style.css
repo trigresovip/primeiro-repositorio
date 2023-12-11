@@ -1,17 +1,16 @@
 body {
-    
+
 }
 
 h1 {
-    color: #000;
+    color: #000000;
 }
 
 .titulo-principal {
     padding-left: 25px;
 }
 
-
-img {
+.banner {
     width: 100%;
 }
 
@@ -29,15 +28,13 @@ p {
     font-size: 20px;
 }
 
- em strong {
-    color: grey;
+em strong {
+    color: red;
 }
-
 
 .beneficios {
     background: #FFFFFF;
     padding: 20px;
-
 }
 
 h3 {
